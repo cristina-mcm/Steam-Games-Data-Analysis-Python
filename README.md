@@ -18,12 +18,9 @@ The project:
 
 ## Repository Contents
 
-- `Steam_2026_Data_Cleaning.ipynb` – Data cleaning, standardization, merging, and preparation
-- `Retrieving_Gamalytic_API.ipynb` – API retrieval, pagination, and data extraction
-- `Steam_2026_EDA.ipynb` – Exploratory analysis and visualizations
-- `steam_games`.csv – Original Steam games dataset from Kaggle
-
-README.md – Project documentation
+- [`Steam_2026_Data_Cleaning.ipynb`](Steam_2026_Data_Cleaning.ipynb) – Data cleaning, standardization, merging, and preparation
+- [`Retrieving_Gamalytic_API.ipynb`](Retrieving_Gamalytic_API.ipynb) – API retrieval, pagination, and data extraction
+- [`Steam_2026_EDA.ipynb`](Steam_2026_EDA.ipynb) – Exploratory analysis and visualizations
 
 ### Data Cleaning and Preparation
 
@@ -71,7 +68,7 @@ README.md – Project documentation
 
 ## Data Sources
 
-The original Steam games dataset was obtained from Kaggle and is provided under the MIT License:
+The original [`Steam games dataset`](https://www.kaggle.com/datasets/hubertsidorowicz/steam-games-dataset-daily-updates) was obtained from Kaggle and is provided under the MIT License:
 
 Steam Games Dataset: Daily Updates \
 Dataset author: Hubert Sidorowicz \
